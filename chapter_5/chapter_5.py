@@ -186,5 +186,3 @@ for number in nums:
     else:
         print(str(number) + "th")
 
-#5-12
-print("************** #5-12 **************")
