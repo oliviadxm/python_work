@@ -1,0 +1,30 @@
+The subject-matter of this book is a historical summary of the
+development of mathematics, illustrated by the lives and discoveries of
+those to whom the progress of the science is mainly due. It may serve as
+an introduction to more elaborate works on the subject, but primarily
+it is intended to give a short and popular account of those leading facts
+in the history of mathematics which many who are unwilling, or have
+not the time, to study it systematically may yet desire to know.
+The first edition was substantially a transcript of some lectures
+which I delivered in the year 1888 with the object of giving a sketch of
+the history, previous to the nineteenth century, that should be intelligible
+to any one acquainted with the elements of mathematics. In the
+second edition, issued in 1893, I rearranged parts of it, and introduced
+a good deal of additional matter.
+The scheme of arrangement will be gathered from the table of contents
+at the end of this preface. Shortly it is as follows. The first chapter
+contains a brief statement of what is known concerning the mathematics
+of the Egyptians and Phoenicians; this is introductory to the history
+of mathematics under Greek influence. The subsequent history is divided
+into three periods: first, that under
+Greek influence, chapters ii
+to vii; second, that of the middle ages and renaissance, chapters viii
+to xiii; and lastly that of modern times, chapters xiv to xix.
+In discussing the mathematics of these periods I have confined myself
+to giving the leading events in the history, and frequently have
+passed in silence over men or works whose influence was comparatively
+unimportant. Doubtless an exaggerated view of the discoveries of those
+mathematicians who are mentioned may be caused by the non-allusion
+to minor writers who preceded and prepared the way for them, but in
+all historical sketches this is to some extent inevitable, and I have done
+my best to guard against it by interpolating remarks on the progress

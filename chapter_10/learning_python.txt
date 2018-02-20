@@ -1,0 +1,7 @@
+in python you can use List
+in python you can use variables
+in python you can use if statement
+in python you can use dictionaries
+in python you can use user input
+in python you can use while loop
+in python you can use function
