@@ -49,7 +49,7 @@ def update_screen(ai_settings, screen, ship, bullets):
     # Redraw all bullets behind ship and aliens.
     for bullet in bullets.sprites():
         bullet.draw_bullet()
-        ship.blitme()
+    ship.blitme()
 
     # Make the most recently drawn screen visible.
     pygame.display.flip()
